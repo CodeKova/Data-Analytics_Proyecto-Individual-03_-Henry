@@ -1,0 +1,15 @@
+date,time,lat,lon,casualties,country,weather,wind speed,visibility,clear,partially cloudy,overcast,rain,low visibility,strong wind,bad weather
+2020/01/02,15:00,13.4435,22.4452278,18,Sudan,Clear,25.9,10.0,True,False,False,False,False,False,False
+2020/01/08,06:18,26.79550214682791,-10.951827639805424,176,Morocco,Rain,13.0,5.4,False,False,False,True,False,False,True
+2020/02/05,18:19,41.0091982,28.9662187,3,Turkey,"Rain, Overcast",21.3,17.1,False,False,True,True,False,False,True
+2020/03/29,20:00,14.5948914,120.9782618,8,Philippines,Clear,20.5,10.5,True,False,False,False,False,False,False
+2020/05/22,14:40,24.8546842,67.0207055,97,Pakistan,Partially cloudy,13.7,5.5,False,True,False,False,False,False,True
+2020/08/07,19:14,11.2450558,75.7754716,20,India,"Rain, Partially cloudy",22.3,3.2,False,True,False,True,True,False,True
+2020/09/25,20:50,49.8363648,36.6898157,26,Ukraine,Partially cloudy,17.7,11.5,False,True,False,False,False,False,True
+2021/01/09,14:40,-6.1753942,106.827183,62,Indonesia,"Rain, Partially cloudy",24.1,5.2,False,True,False,True,False,False,True
+2021/03/02,17:05,26.79550214682791,-10.951827639805424,10,Morocco,"Rain, Partially cloudy",16.6,6.0,False,True,False,True,False,False,True
+2021/03/28,18:35,61.555605,-149.00510072157397,5,United States,"Rain, Overcast",36.8,14.4,False,False,True,True,False,False,True
+2021/05/21,18:00,10.3825318,7.8533226,11,Nigeria,Partially cloudy,40.7,9.5,False,True,False,False,False,True,True
+2021/06/10,08:00,22.0333331,96.466667,12,Myanmar,Overcast,3.6,6.8,False,False,True,False,False,False,True
+2021/07/04,11:30,6.0886509,121.1070509,50,Philippines,"Rain, Overcast",15.5,8.5,False,False,True,True,False,False,True
+2021/07/06,15:00,59.0827605,159.9512943,28,Russia,Clear,18.9,10.0,True,False,False,False,False,False,False
